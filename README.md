@@ -25,7 +25,7 @@
 ###
 
 <p align="left">I'm from India <br><br>
-  <img align="right" height="300" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
+  <img align="right" height="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTV6MjV3ZWN0MmpiY3E5OXVyc3U0NGhjZzNraTFzZjNsbDNnNjRsdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/gjrYDwbjnK8x36xZIO/giphy.gif" />
   - 🔭 I am a front-end web developer, now deepening my knowledge with Next.js and TypeScript to build more dynamic web applications..<br>- 👀 I’m looking to collaborate on open-source projects.<br>- 💞️ I love to eat and code.<br>- 😂 I use GitHub in light mode.</p>
 
 <h3 align="left">🤝 Connect with me:</h3>
