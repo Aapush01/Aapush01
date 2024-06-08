@@ -60,7 +60,7 @@
  
 </div>
 
-<h3 align="left">🔥 My Stats</h3>
+<h3 align="left">🔥 My Stats </h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Aapush01&theme=dracula" alt="Aapush01" /></a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Aapush01&show_icons=true&locale=en&layout=compact&theme=radical&disable_animations=true" alt="Aapush01" /></p>
