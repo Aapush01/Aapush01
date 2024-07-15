@@ -22,7 +22,7 @@
 <div align=center>
   <h2>Langs And Tools</h2>
   <h3>Programming Languages</h3>
-    <img src="https://skillicons.dev/icons?i=js,ts,java,html,css,nextjs,react,nodejs,express">
+    <img src="https://skillicons.dev/icons?i=js,ts,java,cpp,html,css,nextjs,react,nodejs,express">
   <h3>Databases</h3>
     <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb">
   <h3>Tools</h3>
