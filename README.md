@@ -19,6 +19,8 @@
 <a href=""><img src = "https://github-profile-trophy.vercel.app/?username=aapush01&theme=algolia&column=-1&rank=-?"></a>
 </div>
 
+[![An image of @aapush01's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aapush01)](https://holopin.io/@aapush01)
+
 <div align=center>
   <h2>Langs And Tools</h2>
   <h3>Programming Languages</h3>
